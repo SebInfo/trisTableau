@@ -14,7 +14,7 @@ def tri_insertion(tableau):
 
 
 # Exemple d'utilisation
-tableau = [29, 10, 14, 37, 13]
-print("Tableau avant tri :", tableau)
-tri_insertion(tableau)
-print("Tableau après tri :", tableau)
+notes = [12, 10, 14, 7, 13]
+print("Tableau avant tri :", notes)
+tri_insertion(notes)
+print("Tableau après tri :", notes)
